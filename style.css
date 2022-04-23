@@ -191,6 +191,15 @@ figure {
     }
 }
 
+@media (max-width: 800px)
+{
+    figure {
+        width: 55rem;
+        margin-left:1%;
+
+    }
+}
+
 footer {
     color: grey;
     font-family: 'Montserrat', sans-serif;
