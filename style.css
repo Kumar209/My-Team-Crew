@@ -191,12 +191,35 @@ figure {
     }
 }
 
-@media (max-width: 800px)
+/* @media (max-width: 800px)
 {
     figure {
         width: 55rem;
         margin-left:1%;
 
+    } */
+}
+
+@media (max-width: 400px)
+{
+    figure {
+        width: 55rem;
+        margin-left:1%;
+
+    }
+
+    img {
+        width: 15%;
+    }
+
+    .pos{
+        left: 12.4%;
+    }
+
+    .pos1,
+    .pos4 {
+        top: 17%;
+        left: 11.3%;
     }
 }
 
