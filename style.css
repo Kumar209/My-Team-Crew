@@ -194,7 +194,7 @@ figure {
         left: 14%;
     }
 }
-@media (max-width: 400px)
+@media (max-width: 800px)
 {
     figure {
         width: 55rem;
