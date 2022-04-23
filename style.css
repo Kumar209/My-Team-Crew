@@ -194,16 +194,6 @@ figure {
         left: 14%;
     }
 }
-
-/* @media (max-width: 800px)
-{
-    figure {
-        width: 55rem;
-        margin-left:1%;
-
-    } */
-}
-
 @media (max-width: 400px)
 {
     figure {
