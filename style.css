@@ -188,11 +188,12 @@ figure {
         top: 17%;
         left: 11.3%;
     }
-.pos1,
-.pos2{
-    top: 18%;
-    left:10.5%;
-}
+
+    .pos1,
+    .pos2{
+         top: 17%;
+         left:11%;
+    }
 }
 
 footer {
