@@ -119,12 +119,6 @@ figure {
     transform: rotate(90deg);
 }
 
-.pos1,
-.pos2{
-    top: 14%;
-    left:48%;
-}
-
 @media (max-width: 800px) {
 
     html,
@@ -194,6 +188,11 @@ figure {
         top: 17%;
         left: 11.3%;
     }
+.pos1,
+.pos2{
+    top: 16%;
+    left:46%;
+}
 }
 
 footer {
