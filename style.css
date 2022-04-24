@@ -38,6 +38,7 @@ h3 {
     .content{
         text-align: start;
         margin-left: 5%;
+        width:100%;
     }
 
     .sub-content {
