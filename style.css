@@ -107,7 +107,7 @@ figure {
 .pos {
     position: absolute;
     top: 10%;
-    left: 49%;
+    left: 50%;
     transform: rotate(90deg);
 }
 
