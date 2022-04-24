@@ -40,6 +40,7 @@ h3 {
         margin-left: 5%;
         width:100%;
     }
+    
 
     .sub-content {
         margin-left: 5%;
@@ -129,11 +130,6 @@ figure {
         overflow-x: hidden;
     }
 
-    figure {
-        width: 65rem;
-
-    }
-
     .team {
         display: grid;
         grid-template-columns: 50% 50%;
@@ -141,7 +137,7 @@ figure {
     }
 
     img {
-        width: 17%;
+        width: 15%;
     }
 
     .Me1,
@@ -175,37 +171,16 @@ figure {
     }
 
     figure {
+        width:57rem;
+        margin-left:1%;
         position: relative;
     }
 
     .pos {
         position: absolute;
         top: 12%;
-        left: 15%;
-        transform: rotate(90deg);
-    }
-
-    .pos1,
-    .pos4 {
-        top: 13%;
-        left: 14%;
-    }
-}
-
-@media (max-width: 800px)
-{
-    figure {
-        width: 55rem;
-        margin-left:1%;
-
-    }
-
-    img {
-        width: 15%;
-    }
-
-    .pos{
         left: 12.4%;
+        transform: rotate(90deg);
     }
 
     .pos1,
